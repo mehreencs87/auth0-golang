@@ -4,11 +4,10 @@ import (
 	_ "crypto/sha512"
 	"encoding/json"
 	"github.com/auth0/auth0-go/examples/regular-web-app/app"
+	"golang.org/x/oauth2"
 	"io/ioutil"
 	"net/http"
 	"os"
-	// "golang.org/x/oauth2"
-	"github.com/auth0/golang-oauth2"
 )
 
 func CallbackHandler(w http.ResponseWriter, r *http.Request) {
