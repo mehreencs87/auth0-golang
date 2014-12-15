@@ -1,5 +1,5 @@
 # Auth0 + GoLang Regular WebApp Seed
-This is the seed project you need to use if you're going to create regular GoLang Webapp. If you want to create a GoLang API to use with your SPA or mobile app, please check [this other seed project](TODO://)
+This is the seed project you need to use if you're going to create regular GoLang Webapp. If you want to create a GoLang API to use with your SPA or mobile app, please check [this other seed project](https://github.com/auth0/auth0-golang/tree/master/examples/go-api)
 
 #Running the example
 In order to run the example you need to have go and goget installed.
