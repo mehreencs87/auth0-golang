@@ -1,8 +1,8 @@
 package user
 
 import (
-	"github.com/auth0/auth0-go/examples/regular-web-app/app"
-	templates "github.com/auth0/auth0-go/examples/regular-web-app/routes"
+        "github.com/auth0/auth0-golang/examples/regular-web-app/app"
+        templates "github.com/auth0/auth0-golang/examples/regular-web-app/routes"
 	"net/http"
 )
 

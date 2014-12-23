@@ -16,6 +16,6 @@ AUTH0_DOMAIN=myCoolDomain
 AUTH0_CALLBACK_URL=http://localhost:3000/callback
 ````
 
-Once you've set those 3 enviroment variables, you need to install all `Go` dependencies. For that, just run `go install`
+Once you've set those 3 enviroment variables, you need to install all `Go` dependencies. For that, just run `go get .`
 
 Finally, run `go run main.go server.go` to start the app and try calling [http://localhost:3000/](http://localhost:3000/)

@@ -1,7 +1,7 @@
 package home
 
 import (
-	templates "github.com/auth0/auth0-go/examples/regular-web-app/routes"
+        templates "github.com/auth0/auth0-golang/examples/regular-web-app/routes"
 	"html/template"
 	"net/http"
 	"os"

@@ -1,10 +1,10 @@
 package main
 
 import (
-	"github.com/auth0/auth0-go/examples/regular-web-app/routes/callback"
-	"github.com/auth0/auth0-go/examples/regular-web-app/routes/home"
-	"github.com/auth0/auth0-go/examples/regular-web-app/routes/middlewares"
-	"github.com/auth0/auth0-go/examples/regular-web-app/routes/user"
+        "github.com/auth0/auth0-golang/examples/regular-web-app/routes/callback"
+        "github.com/auth0/auth0-golang/examples/regular-web-app/routes/home"
+        "github.com/auth0/auth0-golang/examples/regular-web-app/routes/middlewares"
+        "github.com/auth0/auth0-golang/examples/regular-web-app/routes/user"
 	"github.com/codegangsta/negroni"
 	"github.com/gorilla/mux"
 	"net/http"
